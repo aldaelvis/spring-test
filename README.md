@@ -10,7 +10,7 @@
 
 ## Agregar nueva empresa
 
-para agregar una nueva empresa es necesario autenticar y luego insertar datos, 
+para agregar una nueva empresa es necesario autenticar y luego insertar datos cabe recalcar que el id debe de ser diferente si no insertara datos, 
 a continuacion datos body de entrada.
 
 POST: ${lugar_ejecucion}/empresa/
